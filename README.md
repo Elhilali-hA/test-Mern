@@ -1,29 +1,38 @@
 # test-Mern
 
-Outil Simplifié d'Analyse des Paniers d'Achat
-Description
+Outil Simplifié d'Analyse des Paniers d'Achat :
+
+Description :
 Outil Simplifié d'Analyse des Paniers d'Achat est un tableau de bord interactif conçu pour fournir des informations clés sur les ventes d'un site e-commerce. Il aide les administrateurs à analyser les produits les plus populaires, la répartition des ventes par catégorie et à suivre les tendances à travers des visualisations simples et des statistiques.
 
-Fonctionnalités
+Fonctionnalités :
 Ventes Totales : Affiche le montant total des ventes pour une période spécifique.
+
 Produits les Plus Vendus : Liste des 5 produits les plus vendus, triés par quantité.
+
 Répartition des Ventes par Catégorie : Pourcentage des ventes totales par catégorie.
+
 Tableau de Produits : Détail des produits avec nom, prix, nombre de ventes et date d'ajout.
+
 Visualisation : Graphiques en barres et secteurs pour illustrer les ventes par catégorie et par produit.
+
 Filtres : Permet de filtrer les statistiques par période de temps (derniers 7 jours, 30 jours, ou 12 derniers mois).
 Prérequis
+
+
 Avant de démarrer le projet, assurez-vous que vous disposez des éléments suivants :
 
 Node.js (version 16 ou supérieure)
 npm (version 8 ou supérieure)
 MongoDB : Base de données NoSQL utilisée pour stocker les informations sur les produits et les ventes.
-Installation
+
+
+#Installation
 1. Cloner le Repository
 Clonez ce repository dans votre répertoire local :
 
 bash
-Copier le code
-git clone https://github.com/Elhilali-hA/test-Mern.git
+Copier le code git clone https://github.com/Elhilali-hA/test-Mern.git
 cd votre-repository
 2. Installation des Dépendances
 Installez les dépendances nécessaires pour le backend et le frontend :
